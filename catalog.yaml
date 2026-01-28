@@ -5,8 +5,8 @@ projects:
     version: 1.1.0
     apiVersion: v1
     contact:
-      name: 'Andres Morales'
-      email: 'andres.email@flexcompany.com'
+      name: 'Indrajith Katta'
+      email: 'indrajith@apicentrics.com'
     tags:
       - logistics
       - commerce
